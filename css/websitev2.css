@@ -43,7 +43,9 @@ body {
 
 .rune{
     display:flex;
-    width:8%;
+    margin-left:auto;
+    margin-right:auto;
+    width:10%;
 }
 
 .divider{
@@ -57,7 +59,7 @@ body {
     display: flex;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 30%;
 }
 
 .mauja{
